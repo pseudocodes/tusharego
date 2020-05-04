@@ -1,9 +1,0 @@
-{
-    "go.inferGopath": false,
-    "go.gotoSymbol.includeImports": true,
-    "go.gotoSymbol.includeGoroot": true,
-    "go.autocompleteUnimportedPackages": true,
-    "go.useGoProxyToCheckForToolUpdates": false,
-    "go.formatTool": "goimports",
-    "go.useLanguageServer": true
-}
